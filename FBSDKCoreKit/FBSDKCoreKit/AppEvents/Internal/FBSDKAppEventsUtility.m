@@ -107,12 +107,6 @@
 
   NSString *result = nil;
 
-//  Class ASIdentifierManagerClass = fbsdkdfl_ASIdentifierManagerClass();
-//  if ([ASIdentifierManagerClass class]) {
-//    ASIdentifierManager *manager = [ASIdentifierManagerClass sharedManager];
-//    result = manager.advertisingIdentifier.UUIDString;
-//  }
-
   return result;
 }
 
